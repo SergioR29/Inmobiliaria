@@ -6,7 +6,7 @@ Tipo de proyecto: **Maven**
 SGBD: **MongoDB**  
 
 Lenguaje de Programación: **Java 21**  
-Entornos de Desarrollo: **Eclipse IDE**
+Entorno de Desarrollo: **Eclipse IDE**
 
 ## DIAGRAMA DE BASE DE DATOS
 <img width="1722" height="835" alt="Diagrama RA5" src="https://github.com/user-attachments/assets/024643c5-b92a-4646-ad9d-a27204dd20d6" />
