@@ -6,7 +6,7 @@ Proyecto que consiste en una aplicación de consola programada en Java que gesti
 
 - **_src/main/java/Main.java_**: Aquí está el módulo principal del programa a ejecutar. Por cada consulta que se elija se guardará un fichero de texto (.txt) con el resultado de la consulta en la raíz del proyecto acompañando con el resultado de la consulta con un fichero JSON.
   
-- **_src/main/java/MongoConnection.java_**: Clase destinada a recuperar las colecciones de la BD para su gestión y ejecución de todo tipo de operaciones (Insertar, Consultar, Modificar, Eliminar) sobre los registros contenidos en cada una.  
+- **_src/main/java/MongoConnection.java_**: Clase destinada a recuperar las colecciones de la BD para su gestión y ejecución de todo tipo de operaciones (Insertar, Consultar, Modificar, Eliminar) sobre los documentos (registros) contenidos en cada una.  
 
 ## TECNOLOGÍAS UTILIZADAS
 Lenguaje de Programación: **Java 21**  
