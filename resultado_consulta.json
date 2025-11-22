@@ -1,0 +1,21 @@
+{"_id": {"$oid": "67c73de99c38ea6527eb0bce"}, "tipo": "alquiler", "fecha_inicio": "12/03/2025", "fecha_fin": "12/05/2035", "metodo_pago": "Efectivo", "estado": "activo", "Propietario": 0, "Agente": 0, "Comprador": 0, "Casa": 0, "cantidad_mes": 1200}
+{"_id": {"$oid": "67c5a2d42002264bc9283932"}, "nombre": ["Sergio", "Romero"], "DNI": "123242322", "telefono": "634342424", "email": "aaa", "direccion": "1, qq"}
+{"_id": {"$oid": "67c6f3a452362d61148bcb1f"}, "nombre": ["e", "q", "e"], "DNI": "d", "telefono": "f", "email": "g", "licencia": "g"}
+{"_id": {"$oid": "67c73c50d29fbc6caa00b289"}, "nombre": ["Ser", "RR", "TT"], "DNI": "12345677A", "telefono": "111212", "email": "swdwdwdw@gmail.com", "presupuesto": 1213, "preferencias": "aaa"}
+{"_id": {"$oid": "67c5e4bf9ca6d63e894f1f24"}, "tipo": "Adosado", "direccion": "12, AA", "ciudad": "Madrid", "provincia": "Madrid", "codigo_postal": "19180", "tamano": 23, "habitaciones": 2, "banos": 2, "precio": 200000, "alquiler": 200, "estado": "Aceptable", "propietario": 0, "agente": 0, "comprador": 0}
+
+
+{"_id": {"$oid": "67c741f8bdae6a0db255bed7"}, "tipo": "alquiler", "fecha_inicio": "12/03/2025", "fecha_fin": "21/06/2026", "metodo_pago": "Cash", "cantidad_mes": 1000, "estado": "activo", "Propietario": 0, "Agente": 0, "Comprador": 0, "Casa": 0}
+{"_id": {"$oid": "67c5a2d42002264bc9283932"}, "nombre": ["Sergio", "Romero"], "DNI": "123242322", "telefono": "634342424", "email": "aaa", "direccion": "1, qq"}
+{"_id": {"$oid": "67c6ec273b3d5349c76ddcf9"}, "nombre": ["AA", "ss", "dd"], "DNI": "ss", "telefono": "ss", "email": "ss", "licencia": "ss"}
+{"_id": {"$oid": "67c73c50d29fbc6caa00b289"}, "nombre": ["Ser", "RR", "TT"], "DNI": "12345677A", "telefono": "111212", "email": "swdwdwdw@gmail.com", "presupuesto": 1213, "preferencias": "aaa"}
+{"_id": {"$oid": "67c73cfddf523300f44fd842"}, "tipo": "Adosado", "direccion": "13, Santgai", "ciudad": "Marchamalo", "provincia": "Albacete", "codigo_postal": "10189", "tamano": 23, "habitaciones": 2, "banos": 2, "precio": 2003, "alquiler": 222, "estado": "Aceptable", "propietario": 0, "agente": 0, "comprador": 0}
+
+
+{"_id": {"$oid": "67c8417d535c6d2e92b6ba2e"}, "tipo": "compraventa", "fecha_inicio": "12/03/2025", "fecha_fin": "13/03/2026", "metodo_pago": "Cash", "cantidad_total": 200000, "estado": "cancelado", "Propietario": 0, "Agente": 0, "Comprador": 0, "Casa": 0}
+{"_id": {"$oid": "67c5a2d42002264bc9283932"}, "nombre": ["Sergio", "Romero"], "DNI": "123242322", "telefono": "634342424", "email": "aaa", "direccion": "1, qq"}
+{"_id": {"$oid": "67c6f3a452362d61148bcb1f"}, "nombre": ["e", "q", "e"], "DNI": "d", "telefono": "f", "email": "g", "licencia": "g"}
+{"_id": {"$oid": "67c73c50d29fbc6caa00b289"}, "nombre": ["Ser", "RR", "TT"], "DNI": "12345677A", "telefono": "111212", "email": "swdwdwdw@gmail.com", "presupuesto": 1213, "preferencias": "aaa"}
+{"_id": {"$oid": "67c6f3be52362d61148bcb20"}, "tipo": "t", "direccion": "6, i", "ciudad": "l", "provincia": "l", "codigo_postal": "k", "tamano": 7, "habitaciones": 7, "banos": 7, "precio": 7, "alquiler": 7, "estado": "u", "agente": 0, "propietario": 0, "comprador": 0}
+
+

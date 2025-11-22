@@ -1,0 +1,33 @@
+Tipo: alquiler
+Fecha de Inicio: 12/03/2025
+Fecha de Fin: 12/05/2035
+Método de Pago: Efectivo
+Cantidad a pagar (al mes): 1200
+Estado: activo
+Propietario: 123242322, [Sergio, Romero]
+Agente: d, [e, q, e]
+Comprador: 12345677A, [Ser, RR, TT]
+Casa: {"_id": {"$oid": "67c5e4bf9ca6d63e894f1f24"}, "tipo": "Adosado", "direccion": "12, AA", "ciudad": "Madrid", "provincia": "Madrid", "codigo_postal": "19180", "tamano": 23, "habitaciones": 2, "banos": 2, "precio": 200000, "alquiler": 200, "estado": "Aceptable", "propietario": 0, "agente": 0, "comprador": 0}
+
+Tipo: alquiler
+Fecha de Inicio: 12/03/2025
+Fecha de Fin: 21/06/2026
+Método de Pago: Cash
+Cantidad a pagar (al mes): 1000
+Estado: activo
+Propietario: 123242322, [Sergio, Romero]
+Agente: ss, [AA, ss, dd]
+Comprador: 12345677A, [Ser, RR, TT]
+Casa: {"_id": {"$oid": "67c73cfddf523300f44fd842"}, "tipo": "Adosado", "direccion": "13, Santgai", "ciudad": "Marchamalo", "provincia": "Albacete", "codigo_postal": "10189", "tamano": 23, "habitaciones": 2, "banos": 2, "precio": 2003, "alquiler": 222, "estado": "Aceptable", "propietario": 0, "agente": 0, "comprador": 0}
+
+Tipo: compraventa
+Fecha de Inicio: 12/03/2025
+Fecha de Fin: 13/03/2026
+Método de Pago: Cash
+Cantidad a pagar (Total): 200000
+Estado: cancelado
+Propietario: 123242322, [Sergio, Romero]
+Agente: d, [e, q, e]
+Comprador: 12345677A, [Ser, RR, TT]
+Casa: {"_id": {"$oid": "67c6f3be52362d61148bcb20"}, "tipo": "t", "direccion": "6, i", "ciudad": "l", "provincia": "l", "codigo_postal": "k", "tamano": 7, "habitaciones": 7, "banos": 7, "precio": 7, "alquiler": 7, "estado": "u", "agente": 0, "propietario": 0, "comprador": 0}
+
