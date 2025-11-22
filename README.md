@@ -6,7 +6,7 @@ Tipo de proyecto: **Maven**
 SGBD: **MongoDB**  
 
 Lenguaje de Programación: **Java 21**  
-Entorno de Desarrollo: **Eclipse IDE**
+Entorno de Desarrollo: **Eclipse IDE**  
 Herramienta de Diagramación: **Moon Modeler**
 
 ## DIAGRAMA DE BASE DE DATOS
